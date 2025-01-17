@@ -1,0 +1,160 @@
+{
+  "action": {
+    "path": "action",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "process.commandline": {
+    "path": [
+      "cmd",
+      "process.commandline"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "file.attrib.signedby": {
+    "path": "file.attrib.signedby",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "md5": {
+    "path": [
+      "file.hash.md5",
+      "md5"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "sha256": {
+    "path": [
+      "file.hash.sha256",
+      "sha256"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "process.name": {
+    "path": [
+      "image",
+      "process.path",
+      "process_name",
+      "name"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "ip.dst": {
+    "path": [
+      "ip.dst",
+      "dest_ip"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "ip.src": {
+    "path": [
+      "ip.src",
+      "src_ip"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "parent.process.id": {
+    "path": [
+      "process.parent.id",
+      "parent"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "process.id": {
+    "path": [
+      "pid",
+      "process.id"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "port.dst": {
+    "path": [
+      "port.dst",
+      "dest_port"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "port.src": {
+    "path": [
+      "port.src",
+      "src_port"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "registry.operation": {
+    "path": "registry.operation",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "registry.path": {
+    "path": "registry.path",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "signature.cert_issuer": {
+    "path": "signature.cert_issuer",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "signature.message": {
+    "path": "signature.message",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "signature.publisher": {
+    "path": "signature.publisher",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "signature.status": {
+    "path": "signature.status",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "domain.user": {
+    "path": [
+      "user_domain",
+      "user.domain"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "caller.user.name": {
+    "path": [
+      "user_name",
+      "user.name"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "user.id": {
+    "path": "user.sid",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "isParsed": {
+    "path": "isParsed",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "timestamp": {
+    "path": "timestamp",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "@timestamp": {
+    "path": "@timestamp",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "file.path": {
+    "path": [
+      "file.path",
+      "file_path",
+      "dll"
+    ],
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "hostname.src": {
+    "path": "host.name",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "istransformed": {
+    "path": "istransformed",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "tenant": {
+    "path": "tenant",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  },
+  "parent.process.name": {
+    "path": "parent_name",
+    "omitValues": "['', undefined, 'ERROR', null]"
+  }
+}

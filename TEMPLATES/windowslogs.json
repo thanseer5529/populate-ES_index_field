@@ -1,0 +1,1244 @@
+{
+    "std_out_text": {
+        "path": "std_out_text",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "std_err_text": {
+        "path": "std_err_text",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "status": {
+        "path": "status",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cmd_id": {
+        "path": "cmd_id",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.pid": {
+        "path": "process.pid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.memory": {
+        "path": "process.memory",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.cpu": {
+        "path": "process.cpu",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "platform": {
+        "path": "platform",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.state": {
+        "path": "network_interfaces.state",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.out_rate_bytes": {
+        "path": "network_interfaces.out_rate_bytes",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.out_error_packets": {
+        "path": "network_interfaces.out_error_packets",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.out_dropped_packets": {
+        "path": "network_interfaces.out_dropped_packets",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.name": {
+        "path": "network_interfaces.name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.in_rate_packets": {
+        "path": "network_interfaces.in_rate_packets",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.in_rate_bytes": {
+        "path": "network_interfaces.in_rate_bytes",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.in_error_packets": {
+        "path": "network_interfaces.in_error_packets",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "network_interfaces.in_dropped_packets": {
+        "path": "network_interfaces.in_dropped_packets",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.swap_used": {
+        "path": "memory.swap_used",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.swap_total": {
+        "path": "memory.swap_total",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.swap_free": {
+        "path": "memory.swap_free",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.paged_used": {
+        "path": "memory.paged_used",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.paged_total": {
+        "path": "memory.paged_total",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.paged_free": {
+        "path": "memory.paged_free",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.actual_used": {
+        "path": "memory.actual_used",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.actual_total": {
+        "path": "memory.actual_total",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.actual_load": {
+        "path": "memory.actual_load",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "memory.actual_free": {
+        "path": "memory.actual_free",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.writes_per_sec": {
+        "path": "disks.writes_per_sec",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.write_bytes_sec": {
+        "path": "disks.write_bytes_sec",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.used": {
+        "path": "disks.used",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.reads_per_sec": {
+        "path": "disks.reads_per_sec",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.write_bytes_sec": {
+        "path": "disks.write_bytes_sec",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.used": {
+        "path": "disks.used",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.reads_per_sec": {
+        "path": "disks.reads_per_sec",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.read_bytes_sec": {
+        "path": "disks.read_bytes_sec",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.name": {
+        "path": "disks.name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.free": {
+        "path": "disks.free",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.filesystem": {
+        "path": "disks.filesystem",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "disks.capacity": {
+        "path": "disks.capacity",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.user": {
+        "path": "cpu.user",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.usage": {
+        "path": "cpu.usage",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.total": {
+        "path": "cpu.total",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.system": {
+        "path": "cpu.system",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.nice": {
+        "path": "cpu.nice",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.load_5": {
+        "path": "cpu.load_5",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.load_15": {
+        "path": "cpu.load_15",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.load_1": {
+        "path": "cpu.load_1",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.cores": {
+        "path": "cpu.cores",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.idle": {
+        "path": "cpu.idle",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cpu.irq": {
+        "path": "cpu.irq",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "usb.vendor.id": {
+        "path": "usb_vendor_id",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "usb.part.id": {
+        "path": "usb_part_id",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "usb.device.type": {
+        "path": "usb_device_type",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "usb.device.serial": {
+        "path": "usb_device_serial",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "usb_device.name": {
+        "path": "usb_device_name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "usb.device.id": {
+        "path": "usb_device_id",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "sid.user": {
+        "path": "user.sid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "caler.user.name": {
+        "path": "user.name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "domain.user": {
+        "path": "user.domain",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "caller.user.name": {
+        "path": "user_name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "domain.user": {
+        "path": "user_domain",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "signature.status": {
+        "path": "signature.status",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "signature.publisher": {
+        "path": "signature.publisher",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "signature.message": {
+        "path": "signature.message",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "signature.cert_isuer": {
+        "path": "signature.cert_issuer",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "sha256": {
+        "path": "sha256",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "registry.path": {
+        "path": "registry.path",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "registry.operation": {
+        "path": "registry.operation",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.name": {
+        "path": "process.path",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.parent.id": {
+        "path": "process.parent.id",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.commandline": {
+        "path": "process.commandline",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "port.src": {
+        "path": "port.src",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "port.dst": {
+        "path": "port.dst",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.id": {
+        "path": "pid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "md5": {
+        "path": "md5",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "ip.src": {
+        "path": "ip.src",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "ip.dst": {
+        "path": "ip.dst",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "image": {
+        "path": "image",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "sha256": {
+        "path": "file.hash.sha256",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "md5": {
+        "path": "file.hash.md5",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "file.attrib.signedby": {
+        "path": "file.attrib.signedby",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "cmd": {
+        "path": "process.commandline",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "action": {
+        "path": "action",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "protocol": {
+        "path": "proto",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "type": {
+        "path": "type",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "state": {
+        "path": "state",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.name": {
+        "path": "process.name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.id": {
+        "path": "process.id",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "port.perr": {
+        "path": "port.perr",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "port.dst": {
+        "path": "port.peer",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "port.src": {
+        "path": "port.local",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "ip.src": {
+        "path": "ip.local",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "ip.dst": {
+        "path": "ip.peer",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "md5": {
+        "path": "current_md5",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "error": {
+        "path": "error",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "file.path": {
+        "path": "file.path",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "file_path": {
+        "path": "file.path",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "last.modified.at": {
+        "path": "last_modified_at",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "error": {
+        "path": "error",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "eventcode": {
+        "path": "eventId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "hostname.src": {
+        "path": "host.name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "isParsed": {
+        "path": "isParsed",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "port.src": {
+        "path": "port.src",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "tenant": {
+        "path": "tenant",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "timestamp": {
+        "path": "timestamp",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "domain.user": {
+        "path": "user.domain",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "caller.user.name": {
+        "path": "user.name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "user.id": {
+        "path": "user.sid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "account.expire": {
+        "path": "windows.Event.EventData.AccountExpires",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "subject.account.name": {
+        "path": "windows.Event.EventData.AccountName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "alertdesc": {
+        "path": "windows.Event.EventData.AlertDesc",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "algorithamname": {
+        "path": "windows.Event.EventData.AlgorithmName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "attributes": {
+        "path": "windows.Event.EventData.Attributes",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "audit.sourcename": {
+        "path": "windows.Event.EventData.AuditSourceName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "authentication.package": {
+        "path": "windows.Event.EventData.AuthenticationPackageName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "binary": {
+        "path": "windows.Event.EventData.Binary",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "biosduration": {
+        "path": "windows.Event.EventData.BiosInitDuration",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "caller.processID": {
+        "path": "windows.Event.EventData.CallerProcessId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "caller.processname": {
+        "path": "windows.Event.EventData.CallerProcessNamae",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "checkpointduration": {
+        "path": "windows.Event.EventData.CheckpointDuration",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "client.creationtime": {
+        "path": "windows.Event.EventData.ClientCreationTime",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.id": {
+        "path": "windows.Event.EventData.ClientProcessId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "timezoneID": {
+        "path": "windows.Event.EventData.CurrentTimeZoneID",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "data": {
+        "path": "windows.Event.EventData.Data",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "device.name": {
+        "path": "windows.Event.EventData.DeviceName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "device.namelength": {
+        "path": "windows.Event.EventData.DeviceNameLength",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "device.time": {
+        "path": "windows.Event.EventData.DeviceTime",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "version": {
+        "path": "windows.Event.EventData.DeviceVersionMajor",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "version": {
+        "path": "windows.Event.EventData.DeviceVersionMinor",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "displayname": {
+        "path": "windows.Event.EventData.DisplayName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "doamin.version": {
+        "path": "windows.Event.EventData.DomainBehaviorVersion",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "domain.dst": {
+        "path": "windows.Event.EventData.DomainName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "domain.peer": {
+        "path": "windows.Event.EventData.DomainPeer",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "domain.policychanged": {
+        "path": "windows.Event.EventData.DomainPolicyChanged",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "domain.sid": {
+        "path": "windows.Event.EventData.DomainSid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "drivename": {
+        "path": "windows.Event.EventData.DriveName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "token.elevation": {
+        "path": "windows.Event.EventData.ElevatedToken",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "errormessage": {
+        "path": "windows.Event.EventData.ErrorMessage",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "errormessage": {
+        "path": "windows.Event.EventData.ErrorState",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "event.src.id": {
+        "path": "windows.Event.EventData.EventSourceId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "exitreason": {
+        "path": "windows.Event.EventData.ExitReason",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "failure.reason": {
+        "path": "windows.Event.EventData.FailureReason",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "status": {
+        "path": "windows.Event.EventData.FinalStatus",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "refresh": {
+        "path": "windows.Event.EventData.FirstRefresh",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "flags": {
+        "path": "windows.Event.EventData.Flags",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "forcelogoff": {
+        "path": "windows.Event.EventData.ForceLogoff",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "handle.id": {
+        "path": "windows.Event.EventData.HandleId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "hive.name": {
+        "path": "windows.Event.EventData.HiveName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "hive.length": {
+        "path": "windows.Event.EventData.HiveNameLength",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "homedirectory": {
+        "path": "windows.Event.EventData.HomeDirectory",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "hoepath": {
+        "path": "windows.Event.EventData.HomePath",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "identy": {
+        "path": "windows.Event.EventData.Identity",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "image.name": {
+        "path": "windows.Event.EventData.ImageName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "image.path": {
+        "path": "windows.Event.EventData.ImagePath",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "interface": {
+        "path": "windows.Event.EventData.Interface",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "code.internal": {
+        "path": "windows.Event.EventData.InternalCode",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "workstation.src": {
+        "path": "windows.Event.EventData.IpAddress",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "file.path": {
+        "path": "windows.Event.EventData.KeyFilePath",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "key.length": {
+        "path": "windows.Event.EventData.KeyLength",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "key.name": {
+        "path": "windows.Event.EventData.KeyName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "key.type": {
+        "path": "windows.Event.EventData.KeyType",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "key.updated": {
+        "path": "windows.Event.EventData.KeysUpdated",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "lmpackage_name": {
+        "path": "windows.Event.EventData.LmPackageName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "lockout.duration": {
+        "path": "windows.Event.EventData.LockoutDuration",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "lockout.window": {
+        "path": "windows.Event.EventData.LockoutObservationWindow",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "lockout.threshold": {
+        "path": "windows.Event.EventData.LockoutThreshold",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "logon.Gui": {
+        "path": "windows.Event.EventData.LogonGuid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "logon.hours": {
+        "path": "windows.Event.EventData.LogonHours",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "logon.process": {
+        "path": "windows.Event.EventData.LogonProcessName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "logon_type": {
+        "path": "windows.Event.EventData.LogonType",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "member_dn": {
+        "path": "windows.Event.EventData.MemberName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "member_id": {
+        "path": "windows.Event.EventData.MemberSid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "dst.pid": {
+        "path": "windows.Event.EventData.NormalProcessId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "object.name": {
+        "path": "windows.Event.EventData.ObjectName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "object.server": {
+        "path": "windows.Event.EventData.ObjectServer",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "object.type": {
+        "path": "windows.Event.EventData.ObjectType",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "Oemlinfo": {
+        "path": "windows.Event.EventData.OemInformation",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "ownerservice": {
+        "path": "windows.Event.EventData.OwnerService",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "packagename": {
+        "path": "windows.Event.EventData.PackageName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "password.historylength": {
+        "path": "windows.Event.EventData.PasswordHistoryLength",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "password.lastset": {
+        "path": "windows.Event.EventData.PasswordLastSet",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "port.src": {
+        "path": "windows.Event.EventData.PortFName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "port.src": {
+        "path": "windows.Event.EventData.PortName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "group.id": {
+        "path": "windows.Event.EventData.PrimaryGroupId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "privilagelist": {
+        "path": "windows.Event.EventData.PrivilegeList",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.creationtime": {
+        "path": "windows.Event.EventData.ProcessCreationTime",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.id": {
+        "path": "windows.Event.EventData.ProcessID",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.name": {
+        "path": "windows.Event.EventData.ProcessName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.info": {
+        "path": "windows.Event.EventData.ProcessingMode",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.info": {
+        "path": "windows.Event.EventData.ProcessingTimeInMilliseconds",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "profilepath": {
+        "path": "windows.Event.EventData.ProfilePath",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "program.waketime": {
+        "path": "windows.Event.EventData.ProgrammedWakeTimeAc",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "program.waketime": {
+        "path": "windows.Event.EventData.ProgrammedWakeTimeDc",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "proto.type": {
+        "path": "windows.Event.EventData.ProtocolType",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "providername": {
+        "path": "windows.Event.EventData.ProviderName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "queryname": {
+        "path": "windows.Event.EventData.QueryName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "readoperation": {
+        "path": "windows.Event.EventData.ReadOperation",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "reason": {
+        "path": "windows.Event.EventData.Reason",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "paaswordlengthlimit": {
+        "path": "windows.Event.EventData.RelaxMinimumPasswordLengthLimits",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "resource": {
+        "path": "windows.Event.EventData.Resource",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "restrictedadminmode": {
+        "path": "windows.Event.EventData.RestrictedAdminMode",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "retryminutes": {
+        "path": "windows.Event.EventData.RetryMinutes",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "returncode": {
+        "path": "windows.Event.EventData.ReturnCode",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "schemainfo": {
+        "path": "windows.Event.EventData.Schema",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "schemainfo": {
+        "path": "windows.Event.EventData.SchemaFriendlyName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "scriptpath": {
+        "path": "windows.Event.EventData.ScriptPath",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "service.name": {
+        "path": "windows.Event.EventData.ServiceName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "service.type": {
+        "path": "windows.Event.EventData.ServiceType",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "sidhistory": {
+        "path": "windows.Event.EventData.SidHistory",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "sleep.duration": {
+        "path": "windows.Event.EventData.SleepDuration",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "sleep.time": {
+        "path": "windows.Event.EventData.SleepTime",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "file.id": {
+        "path": "windows.Event.EventData.SourceFileID",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "source.line": {
+        "path": "windows.Event.EventData.SourceLine",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "source.tag": {
+        "path": "windows.Event.EventData.SourceTag",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "type": {
+        "path": "windows.Event.EventData.StartType",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "status": {
+        "path": "windows.Event.EventData.Status",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "substatus": {
+        "path": "windows.Event.EventData.SubStatus",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "session_id": {
+        "path": "windows.Event.EventData.SubjectLogonId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "supportinfo": {
+        "path": "windows.Event.EventData.SupportInfo1",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "switch.name": {
+        "path": "windows.Event.EventData.SwitchName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "switch.namelen": {
+        "path": "windows.Event.EventData.SwitchNameLen",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "TSid": {
+        "path": "windows.Event.EventData.TSId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "dst.domain": {
+        "path": "windows.Event.EventData.TargetDomainName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target.info": {
+        "path": "windows.Event.EventData.TargetInfo",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "linked_logon_id": {
+        "path": "windows.Event.EventData.TargetLinkedLogonId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target.logonGuID": {
+        "path": "windows.Event.EventData.TargetLogonGuid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "session.id": {
+        "path": "windows.Event.EventData.TargetLogonId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target.name": {
+        "path": "windows.Event.EventData.TargetName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target.outbound.domainname": {
+        "path": "windows.Event.EventData.TargetOutboundDomainName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target.outbound.username": {
+        "path": "windows.Event.EventData.TargetOutboundUserName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "dest_nt_host": {
+        "path": "windows.Event.EventData.TargetServerName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target.sid": {
+        "path": "windows.Event.EventData.TargetSid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target.state": {
+        "path": "windows.Event.EventData.TargetState",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target_user_name": {
+        "path": "windows.Event.EventData.TargetUserName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "target.user.ID": {
+        "path": "windows.Event.EventData.TargetUserSid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "timezoneinfo": {
+        "path": "windows.Event.EventData.TimeZoneInfoCacheUpdated",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "Tmid": {
+        "path": "windows.Event.EventData.TmId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "transitionstoon": {
+        "path": "windows.Event.EventData.TransitionsToOn",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "Endpoint.Services": {
+        "path": "windows.Event.EventData.TransmittedServices",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "type": {
+        "path": "windows.Event.EventData.Type",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "url": {
+        "path": "windows.Event.EventData.Url",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "user.accountcontrol": {
+        "path": "windows.Event.EventData.UserAccountControl",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "user.parameters": {
+        "path": "windows.Event.EventData.UserParameters",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "user.principalaname": {
+        "path": "windows.Event.EventData.UserPrincipalName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "user.sid": {
+        "path": "windows.Event.EventData.UserSid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "source_workstation": {
+        "path": "windows.Event.EventData.UserWorkstations",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "vm_id": {
+        "path": "windows.Event.EventData.VMId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "vmIDln": {
+        "path": "windows.Event.EventData.VMIdLen",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "vname": {
+        "path": "windows.Event.EventData.VMName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "vmnamelen": {
+        "path": "windows.Event.EventData.VMNameLen",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "virtual_account": {
+        "path": "windows.Event.EventData.VirtualAccount",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "volumename": {
+        "path": "windows.Event.EventData.VolumeName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "wake.duration": {
+        "path": "windows.Event.EventData.WakeDuration",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "wake.state": {
+        "path": "windows.Event.EventData.WakeFromState",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "wake.requestac": {
+        "path": "windows.Event.EventData.WakeRequesterTypeAc",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "wake.requestdc": {
+        "path": "windows.Event.EventData.WakeRequesterTypeDc",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "sourcelength": {
+        "path": "windows.Event.EventData.WakeSourceTextLength",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "sourcetype": {
+        "path": "windows.Event.EventData.WakeSourceType",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "wake.time": {
+        "path": "windows.Event.EventData.WakeTime",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "wake.owner": {
+        "path": "windows.Event.EventData.WakeTimerOwnerLength",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "workstation.src": {
+        "path": "windows.Event.EventData.Workstation",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "workstation.src": {
+        "path": "windows.Event.EventData.WorkstationName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "errorcode": {
+        "path": "windows.Event.EventData.errorCode",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "service.GuID": {
+        "path": "windows.Event.EventData.serviceGuid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "update.GuID": {
+        "path": "windows.Event.EventData.updateGuid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "update.revisionnumber": {
+        "path": "windows.Event.EventData.updateRevisionNumber",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "update.title": {
+        "path": "windows.Event.EventData.updateTitle",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "channel": {
+        "path": "windows.Event.System.Channel",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "src.computer": {
+        "path": "windows.Event.System.Computer",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "corelation.activityID": {
+        "path": "windows.Event.System.Correlation.@ActivityID",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "event.recorid": {
+        "path": "windows.Event.System.EventRecordID",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.id": {
+        "path": "windows.Event.System.Execution.@ProcessID",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "threat.id": {
+        "path": "windows.Event.System.Execution.@ThreadID",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "system.keywords": {
+        "path": "windows.Event.System.Keywords",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "system.level": {
+        "path": "windows.Event.System.Level",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "system.opcode": {
+        "path": "windows.Event.System.Opcode",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "system.provider.sourcename": {
+        "path": "windows.Event.System.Provider.@EventSourceName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "system.provider.Guid": {
+        "path": "windows.Event.System.Provider.@Guid",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "system.provider.name": {
+        "path": "windows.Event.System.Provider.@Name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "user.id": {
+        "path": "windows.Event.System.Security.@UserID",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "task": {
+        "path": "windows.Event.System.Task",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "timestamp": {
+        "path": "windows.Event.System.TimeCreated.@SystemTime",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "version": {
+        "path": "windows.Event.System.Version",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UMDFHostProblem.xmlns": {
+        "path": "windows.Event.UserData.UMDFHostProblem.@xmlns",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UMDFHostProblem.activeoperation": {
+        "path": "windows.Event.UserData.UMDFHostProblem.ActiveOperation",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UMDFHostProblem.detectedby": {
+        "path": "windows.Event.UserData.UMDFHostProblem.DetectedBy",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "exitcode": {
+        "path": "windows.Event.UserData.UMDFHostProblem.ExitCode",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UMDFHostProblem.": {
+        "path": "windows.Event.UserData.UMDFHostProblem.LifetimeId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "message": {
+        "path": "windows.Event.UserData.UMDFHostProblem.Message",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UMDFHostProblem.Problem": {
+        "path": "windows.Event.UserData.UMDFHostProblem.Problem",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "Status": {
+        "path": "windows.Event.UserData.UMDFHostProblem.Status",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UmdfDeviceOffline.xmls": {
+        "path": "windows.Event.UserData.UmdfDeviceOffline.@xmlns",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UmdfDeviceOffline.@xmlns": {
+        "path": "windows.Event.UserData.UmdfDeviceOffline.FriendlyName",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UmdfDeviceOffline.Instancceid": {
+        "path": "windows.Event.UserData.UmdfDeviceOffline.InstanceId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UmdfDeviceOffline.lifetimeID": {
+        "path": "windows.Event.UserData.UmdfDeviceOffline.LifetimeId",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UmdfDeviceOffline.location": {
+        "path": "windows.Event.UserData.UmdfDeviceOffline.Location",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "UmdfDeviceOffline.restartcount": {
+        "path": "windows.Event.UserData.UmdfDeviceOffline.RestartCount",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+
+
+    "process.process_name": {
+        "path": "process.process_name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.cmd": {
+        "path": "process.cmd",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.image": {
+        "path": "process.image",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.parent_name": {
+        "path": "process.parent_name",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.md5": {
+        "path": "process.md5",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.sha256": {
+        "path": "process.sha256",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.src_ip": {
+        "path": "process.src_ip",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.dest_ip": {
+        "path": "process.dest_ip",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.dest_port": {
+        "path": "process.dest_port",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.src_port": {
+        "path": "process.src_port",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.file_path": {
+        "path": "process.file_path",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.dll": {
+        "path": "process.dll",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    },
+    "process.signature.publisher": {
+        "path": "process.signature.publisher",
+        "omitValues": "['', undefined, 'ERROR', null]"
+    }
+}

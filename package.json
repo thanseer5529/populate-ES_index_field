@@ -1,0 +1,23 @@
+{
+  "name": "mapper-script",
+  "version": "0.0.1",
+  "description": "Helping to generate DSQ template, fetching ES index template, and populating schema",
+  "main": "index.js",
+  "scripts": {
+    "test":"node .",
+    "start": ". script/config.sh && node index.js", 
+    "build": "NODE_ENV=production pkg --out-path ./build ."
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.7.0"
+  },
+  "bin": "./index.js",
+  "pkg": {
+    "assets": [
+      "node_modules/@elastic/**/*"
+    ],
+    "targets": [
+      "node16-linux-x64" 
+    ]
+  }
+}
